@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0c8a21b4-f430-440d-8481-70d3c814e3e2}">
+		<property name="assetPath">
+			<value>DM-CGS-21.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.12140589569160998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1b0b3880-63c7-4af0-824f-95490bb33cb4}</destination>
+		</relationship>
+	</object>
+</objects>
